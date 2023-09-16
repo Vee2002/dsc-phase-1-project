@@ -17,4 +17,4 @@ The data I used was the following :
 
  - To invest more in genres such as Sci-Fi, Drama, Action, Comedy, Adventure and Documentaries
  - And to partner or seek advise from studios such as IFC, Uni. and Fox Studios.
-
+ - This will guide Microsoft on what to do when creating a movie studio.
